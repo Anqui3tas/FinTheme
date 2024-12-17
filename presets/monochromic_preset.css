@@ -1,0 +1,38 @@
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/jf_font.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fixes.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/base.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/rounding.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/smallercast.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/episodelist/episodes_compactlist.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/header/header_transparent-dashboard.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/login/login_minimalistic.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fields/fields_border.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/cornerindicator/indicator_corner.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/type/dark.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_simple.css');
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/overlayprogress.css');
+
+:root {--rounding: 5px;}
+
+/*Style backdrop*/
+.backdropImage {
+  filter: blur(60px) saturate(200%) contrast(160%) brightness(25%);
+}
+
+/* Replace the main Jellyfin logo on the header */
+.skinHeaderLogo {
+  background-image: url(Images/logo.svg); /* Add your custom logo URL */
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 50px; /* Adjust to fit your logo */
+  width: 200px; /* Adjust to fit your logo */
+  margin: auto; /* Center if needed */
+}
+
+/* Replace the logo on the splash screen */
+#loginPage {
+  background-image: url(Images/logo.svg); /* Add your splash screen image URL */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
