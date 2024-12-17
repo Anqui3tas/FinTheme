@@ -1,17 +1,17 @@
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/jf_font.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fixes.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/base.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/accentlist.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/rounding.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/smallercast.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/episodelist/episodes_compactlist.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/header/header_transparent-dashboard.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/login/login_minimalistic.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fields/fields_noborder.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/cornerindicator/indicator_floating.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/type/light.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_simple.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/overlayprogress.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/jf_font.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/fixes.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/base.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/accentlist.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/rounding.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/smallercast.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/episodelist/episodes_compactlist.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/header/header_transparent-dashboard.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/login/login_minimalistic.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/fields/fields_noborder.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/cornerindicator/indicator_floating.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/type/dark.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/titlepage/title_simple.css');
+@import url('https://raw.githubusercontent.com/Anqui3tas/FinTheme/main/overlayprogress.css');
 
 :root {--rounding: 0px;}
 
