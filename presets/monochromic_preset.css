@@ -21,7 +21,7 @@
 
 /* Replace the main Jellyfin logo on the header */
 .skinHeaderLogo {
-  background-image: url(/Images/logo.svg); /* Add your custom logo URL */
+  background-image: url(../Images/logo.svg); /* Add your custom logo URL */
   background-size: contain;
   background-repeat: no-repeat;
   height: 50px; /* Adjust to fit your logo */
@@ -31,7 +31,7 @@
 
 /* Replace the logo on the splash screen */
 #loginPage {
-  background-image: url(/Images/logo.svg); /* Add your splash screen image URL */
+  background-image: url(../Images/logo.svg); /* Add your splash screen image URL */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
